@@ -246,7 +246,3 @@ Refund percentage depends on the passenger's class. If the cancellation happens 
 | First Class | 90% | 45% |
 
 ---
-
-## 📄 License
-
-This project was developed as an academic assignment for the **Object-Oriented Programming (C++)** course at the University of Azad Jammu & Kashmir. It is intended for educational purposes.
