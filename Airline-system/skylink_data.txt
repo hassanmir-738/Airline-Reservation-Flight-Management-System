@@ -1,0 +1,36 @@
+SkyLink Airways
+3
+10
+Domestic,SL101,Karachi,Lahore,2026-05-30,08:00,150,150,South
+Domestic,SL102,Lahore,Islamabad,2026-05-30,10:30,120,120,North
+Domestic,SL103,Islamabad,Karachi,2026-05-31,14:00,180,180,Central
+Domestic,SL104,Peshawar,Karachi,2026-06-01,07:00,100,100,North
+International,SL201,Karachi,Dubai,2026-05-30,12:00,200,200,1,UAE
+International,SL202,Lahore,London,2026-05-31,22:00,250,249,1,UK
+International,SL203,Islamabad,Istanbul,2026-06-01,09:00,180,180,0,Turkey
+Charter,SL301,Karachi,Skardu,2026-05-30,06:00,50,50,TrekCorp,25000.000000
+Charter,SL302,Lahore,Gilgit,2026-06-02,05:30,40,40,MountainAir,20000.000000
+Charter,SL303,Islamabad,Chitral,2026-06-03,07:00,30,30,NorthExp,15000.000000
+8
+Economy,P001,Ali Ahmed,0300-1234567,ali@email.com,150
+Economy,P002,Sara Khan,0321-9876543,sara@email.com,0
+Economy,P003,Usman Malik,0333-5551234,usman@email.com,500
+Business,P004,Fatima Noor,0312-7778899,fatima@email.com,0
+Business,P005,Hassan Raza,0345-1112233,hassan@email.com,0
+FirstClass,P006,Ayesha Siddiqui,0300-4445566,ayesha@email.com,0
+FirstClass,P007,Bilal Tariq,0321-6667788,bilal@email.com,0
+FirstClass,P008,Zara Iqbal,0333-8889900,zara@email.com,0
+2
+TKT001,P001,SL101,1A,150.000000,Cancelled,2026-05-31
+TKT002,P003,SL202,1A,500.000000,Booked,2026-05-31
+10
+SL101,75
+SL102,0
+SL103,0
+SL104,0
+SL201,0
+SL202,500
+SL203,0
+SL301,0
+SL302,0
+SL303,0
